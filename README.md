@@ -26,3 +26,55 @@ This assistant can open applications, control system settings, manage tasks, tak
 ---
 
 ## 📂 Project Structure
+jarvis/
+│── main.py # Main execution file
+│── commands.py # Handles voice commands
+│── speech.py # Speech recognition & TTS
+│── utils.py # Helper functions
+│── requirements.txt # Required libraries
+
+
+---
+
+## ▶️ Usage
+Speak commands such as:
+- **"Jarvis open chrome"**
+- **"Jarvis create folder college project"**
+- **"Jarvis make a note exam is on Monday"**
+- **"Jarvis add task complete AI assignment"**
+- **"Jarvis volume up"**
+- **"Jarvis take screenshot"**
+
+Jarvis will recognize the command and execute the task instantly.
+
+---
+
+## 📌 Future Improvements
+- Add AI-based conversation using NLP
+- Face recognition for user authentication
+- Mobile app integration
+- GUI interface
+- Online API integration (weather, news, reminders)
+
+---
+
+## 🎯 Use Case
+- Desktop automation
+- Hands-free system control
+- Learning project for AI & Python students
+- College minor 
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome.  
+Feel free to fork this repository and submit pull requests.
+
+---
+
+
+---
+
+## 👨‍💻 Author
+**rohit kumar**  
+Computer Science / AI-ML Student
